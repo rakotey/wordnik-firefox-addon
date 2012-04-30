@@ -1,4 +1,5 @@
-wordnik-firefox-addon
-=====================
+This is the wordnik add-on.  It contains:
 
-wordnik-firefox-addon
+* A program (lib/main.js).
+* A few tests.
+* Some meager documentation.
